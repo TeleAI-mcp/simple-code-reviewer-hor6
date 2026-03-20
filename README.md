@@ -1,2 +1,3 @@
-# simple-code-reviewer-hor6
-Automated issue comment bot repository
+# Simple Code Reviewer Hor6
+
+Automated issue comment bot repository.
